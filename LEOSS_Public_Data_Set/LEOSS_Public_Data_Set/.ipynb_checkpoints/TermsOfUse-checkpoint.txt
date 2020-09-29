@@ -1,0 +1,13 @@
+Terms of Use - LEOSS public data set
+
+I will only use the LEOSS public data set for personal research on COVID-19.
+
+I agree to preserve, at all times, the confidentiality of the information. In particular, I undertake not to attempt to compromise or otherwise infringe the confidentiality of information of patients.
+
+I agree that I have expertise to analyse and interpret the LEOSS data based on statistical guidelines. 
+
+I agree to recognize the contribution of the LEOSS study group and to include a proper acknowledgement in any work based on the LEOSS data.
+
+The public data set is anonymized using our data protection concept. Several parameters refer to clinical phases. Values where the respective phase was not present have been defined as Not applicable (N/a). Further information can be found:
+https://leoss.net/wp-content/uploads/2020/04/LEOSS-Public-Use-File-Protection-2020-04-11.pdf
+
