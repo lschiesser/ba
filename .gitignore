@@ -1,1 +1,3 @@
 /too-big/*
+# Jupyter Notebook
+.ipynb_checkpoints
