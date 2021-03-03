@@ -1,17 +1,19 @@
 # Code for Bachelor's thesis
 
 ## Contents
-1. [How to install the environment](#Install-environment)
+1. [How to install the environment](#How-to-install-the-conda-environment)
 2. [Repository structure](#Repository-structure)
+
+-------
 
 ### How to install the conda environment
 - Use .yml file to create environment (this installs all required packages including rpy2)
 - How to setup rpy2 to work with R
-    - R has to be installed on the computer and setup properly in the system variables where user variables should suffice
+    - R has to be installed on the computer and setup properly in the system variables (user variables should suffice)
     - additionally, the 3 following variables should be set up as user variables
         - R_HOME is set to the path of the R installation, e.g., 'C:\Program Files\R\R-{version-number}'
-        - R_LIBS_USER set to the library path where R installs some (or all) of the packages, e.g., 'C:\Users\{username}\Documents\R\win-library\{version-number}'
-        - R_USER set to the path of the rpy2 installation, e.g., 'C:\Users\{username}\anaconda3\envs\{env-name}\Lib\site-packages\rpy2'
+        - R_LIBS_USER set to the library path where R installs some (or all) of the packages, e.g., 'C:\Users\\{username}\Documents\R\win-library\\{version-number}'
+        - R_USER set to the path of the rpy2 installation, e.g., 'C:\Users\\{username}\anaconda3\envs\\{env-name}\Lib\site-packages\rpy2'
     - now the mice package can be installed in R using, e.g., the R console
     - now should be able to use package
 
@@ -24,7 +26,6 @@
     |-- blood-exams
     |   |-- covid_study.xlsx
     |   |-- covid_study_v2.xlsx
-    |   |-- .ipynb_checkpoints
     |-- notebooks
         |-- ba_code.ipynb
         |-- eda_blood_italy.ipynb
